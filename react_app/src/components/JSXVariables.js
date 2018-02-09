@@ -1,4 +1,7 @@
 import React from "react";
+const name = "Jason";
+const letterNumber = 5;
+const opinion = "dope";
 
 const JSXVariables = () => (
   <div className="main-container">
