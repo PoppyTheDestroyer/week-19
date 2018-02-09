@@ -1,5 +1,6 @@
 import React from "react";
+import JSXVariables from "./components/JSXVariables";
 
-const App = () => <p>Render Bootstrap components here</p>;
+const App = () => <JSXVariables />;
 
 export default App;
