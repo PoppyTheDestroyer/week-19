@@ -1,6 +1,6 @@
 import React from "react";
-import Counter from "./components/Counter";
+import PortfolioContainer from "./components/PortfolioContainer";
 
-const App = () => <Counter />;
+const App = () => <PortfolioContainer />;
 
 export default App;
